@@ -1,0 +1,15 @@
+{
+  "domain": "yolink",
+  "name": "yolink",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/yolink",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@OverFlow636"
+  ],
+  "iot_class": "cloud_polling"
+}
